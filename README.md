@@ -12,3 +12,7 @@ IR
 4. Implement e-mail spam filtering using text classification algorithm with appropriate dataset.
 5. Implement Agglomerative hierarchical clustering algorithm using appropriate dataset.
 6. Implement Page Rank Algorithm. (Use python or beautiful soup for implementation).
+
+
+pip install qiskit
+pip install qiskit-aer
